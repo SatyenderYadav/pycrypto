@@ -1,0 +1,4 @@
+# buildenv.  Generated from buildenv.in by configure.
+CC = gcc
+CFLAGS = -g -O2 -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -DHAVE_CONFIG_H
+LDFLAGS = 
